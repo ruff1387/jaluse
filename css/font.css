@@ -1,0 +1,37 @@
+/*@font-face {
+    font-family: "CHC-Bold";
+    font-weight: bold;
+    src: url('../fonts/Co Headline Corp Bold.ttf');
+}
+@font-face {
+    font-family: "CHC-Light";
+    src: url('../fonts/Co Headline Corp Light.ttf');
+}
+@font-face {
+    font-family: "CHC";
+    src: url('../fonts/Co Headline Corp Regular_0.ttf');
+}
+
+@font-face {
+  font-family: 'Proxima Nova Cn Th';
+  src: url('../fonts/Proxima/ProximaNovaCond-Extrabld.eot');
+  src: local('Proxima Nova Condensed Extrabold'), local('ProximaNovaCond-Extrabld'),
+    url('../fonts/Proxima/ProximaNovaCond-Extrabld.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Proxima/ProximaNovaCond-Extrabld.woff') format('woff'),
+    url('../fonts/Proxima/ProximaNovaCond-Extrabld.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}*/
+@font-face {
+  font-family: "Calibri-Regular";
+  src: url("../fonts/calibri/calibri.ttf"); }
+
+@font-face {
+  font-family: "Calibri-Light";
+  font-weight: lighter;
+  src: url("../fonts/calibri/calibril.ttf"); }
+
+@font-face {
+  font-family: "Calibri-Bold";
+  font-weight: bold;
+  src: url("../fonts/calibri/calibrib.ttf"); }

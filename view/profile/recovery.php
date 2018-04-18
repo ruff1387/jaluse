@@ -1,0 +1,1 @@
+<pre> Тестовая страница изменить ее можно в директории view/profile/recovery.php </pre>
